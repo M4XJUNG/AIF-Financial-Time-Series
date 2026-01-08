@@ -7,7 +7,7 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 
 ---
 
-## 🔬 Research Focus (연구 주제)
+## 🔬 Research Focus
 
 * **Foundation Models for Time Series:** Time-LLM, Time-o1 등 최신 LLM 기반 시계열 모델 분석
 * **Financial Forecasting:** KOSPI 지수 및 주가 변동성 예측 정확도 향상 연구
@@ -15,7 +15,7 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 
 ---
 
-## 📂 Repository Structure (폴더 구조)
+## 📂 Repository Structure
 
 | 폴더/파일 (Directory) | 설명 (Description) | 관련 논문 (Paper/Source) |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 
 ---
 
-## 🧪 Experiments & Results (실험 및 결과)
+## 🧪 Experiments & Results
 
 ### 1. KOSPI Prediction with Hybrid Models
 * **Objective:** Hwang(2021)에서 제안한 하이브리드 모델을 구현하여 KOSPI 등락을 예측
@@ -41,7 +41,7 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 
 ---
 
-## 🛠️ Tech Stack (기술 스택)
+## 🛠️ Tech Stack
 
 * **Language:** Python 3.9+
 * **Libraries:** PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn
