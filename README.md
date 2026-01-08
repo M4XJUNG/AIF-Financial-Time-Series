@@ -19,9 +19,9 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 
 | 폴더/파일 (Directory) | 설명 (Description) | 관련 논문 (Paper/Source) |
 | :--- | :--- | :--- |
-| **Time-o1-Paper-Review** | Time-o1 논문 리뷰 및 데이터셋 실험 코드 | [Time-o1: Origin Paper](https://arxiv.org/abs/2310.01234) |
-| **Replication_Hwang(2021)...** | Hwang(2021) 논문 기반 KOSPI 예측 모델 구현 | [한국융합학회 논문(Hwang, 2021)](https://dbpia.co.kr/pdf/cpViewer?nodeId=NODE10659809) |
-| **m4-competition-dataset** | 시계열 예측 벤치마크 데이터셋 (M4) | [M4 Competition Data](https://github.com/Mcompetitions/M4-methods) |
+| [**Time-o1-Paper-Review**](https://github.com/M4XJUNG/AIF-Financial-Time-Series/tree/main/Time-o1-Paper-Review) | Time-o1 논문 리뷰 및 데이터셋 실험 코드 | [Time-o1: Origin Paper](https://arxiv.org/abs/2310.01234) |
+| [**Replication_Hwang(2021)...**](https://github.com/M4XJUNG/AIF-Financial-Time-Series/blob/main/Replication_Hwang(2021)_KOSPI_Prediction.ipynb) | Hwang(2021) 논문 기반 KOSPI 예측 모델 구현 | [한국융합학회 논문(Hwang, 2021)](https://dbpia.co.kr/pdf/cpViewer?nodeId=NODE10659809) |
+| [**m4-competition-dataset**](https://github.com/M4XJUNG/AIF-Financial-Time-Series/tree/main/m4-competition-dataset) | 시계열 예측 벤치마크 데이터셋 (M4) | [M4 Competition Data](https://github.com/Mcompetitions/M4-methods) |
 
 ---
 
@@ -32,7 +32,7 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 * **Methodology:**
     * Data Preprocessing: 기술적 지표(MA, RSI) 생성 및 정규화
     * Model: LSTM + Attention Mechanism (예시)
-* **Result:** (여기에 실험 결과를 한 줄로 적으세요. 예: 기존 모델 대비 정확도 5% 향상 확인)
+* **Result:** (<!-- 여기에 실험 결과를 한 줄로 적으세요. 예: 기존 모델 대비 정확도 5% 향상 확인 --> 연구 진행 중)
 
 ### 2. Time-o1 Foundation Model Analysis
 * **Objective:** 대규모 언어 모델(LLM)을 활용한 제로샷(Zero-shot) 시계열 예측 성능 분석
