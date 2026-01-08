@@ -1,6 +1,7 @@
 # 📈 AIF Financial Time Series Research
 
-**인하대학교 금융 인공지능 연구실(AIF) 학부 연구생 연구 기록** Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.google.com/view/inha-aif-lab)
+**인하대학교 금융 인공지능 연구실(AIF) 학부 연구생 연구 기록** <br>
+Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.google.com/view/inha-aif-lab)
 
 이 저장소는 최신 시계열 예측 모델(Time-Series Foundation Models)을 연구하고, 이를 금융 데이터(KOSPI, Stock Prices)에 적용하여 성능을 검증한 코드를 포함하고 있습니다.
 
