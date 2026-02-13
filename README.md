@@ -31,6 +31,8 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 **100개 무작위 금융 시계열 데이터(Daily Finance)**에 대한 일반화 성능 테스트 결과입니다.
 
 ![Research Journey Plot](<img width="867" height="546" alt="image" src="https://github.com/user-attachments/assets/6f042653-ae72-49fe-9ebe-faddc8154c90" />)
+<img width="867" height="546" alt="image" src="https://github.com/user-attachments/assets/2c83a129-0fc4-445d-ac52-7c6d90bd7d4d" />
+
 *(위 그래프는 단순 결합 모델의 실패를 분석하고, 잔차 학습으로 아키텍처를 개선하여 성능을 향상시킨 과정을 보여줍니다.)*
 
 * **Pure ML (XGBoost):** Acc 0.56 - 패턴은 잡지만 추세 변화에 취약함.
@@ -43,10 +45,10 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 
 | Directory | Description | Key Tech |
 | :--- | :--- | :--- |
-| [**01_Preprocessing**](./) | M4 데이터 필터링 및 **TA-Lib** 기반 파생변수 생성 | `Pandas`, `TA-Lib` |
-| [**02_Baseline_Models**](./) | XGBoost, Exponential Smoothing 단일 모델 성능 측정 | `XGBoost`, `Statsmodels` |
-| [**03_Hybrid_Architecture**](./) | **Residual Learning (ES-XGB)** 구현 및 검증 코드 | `Scikit-learn` |
-| [**Time-o1-Analysis**](./) | Time-o1 논문 리뷰 및 Foundation Model 적용 실험 | `PyTorch` |
+| [**01_Preprocessing**] | M4 데이터 필터링 및 **TA-Lib** 기반 파생변수 생성 | `Pandas`, `TA-Lib` |
+| [**02_Baseline_Models**] | XGBoost, Exponential Smoothing 단일 모델 성능 측정 | `XGBoost`, `Statsmodels` |
+| [**03_Hybrid_Architecture**] | **Residual Learning (ES-XGB)** 구현 및 검증 코드 | `Scikit-learn` |
+| [**Time-o1-Analysis**] | Time-o1 논문 리뷰 및 Foundation Model 적용 실험 | `PyTorch` |
 
 ---
 
