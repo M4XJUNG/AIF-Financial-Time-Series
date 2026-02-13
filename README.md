@@ -30,7 +30,6 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 ### 2. Experiment Results (M4 Finance Dataset)
 **100개 무작위 금융 시계열 데이터(Daily Finance)**에 대한 일반화 성능 테스트 결과입니다.
 
-![Research Journey Plot](<img width="867" height="546" alt="image" src="https://github.com/user-attachments/assets/6f042653-ae72-49fe-9ebe-faddc8154c90" />)
 <img width="867" height="546" alt="image" src="https://github.com/user-attachments/assets/2c83a129-0fc4-445d-ac52-7c6d90bd7d4d" />
 
 *(위 그래프는 단순 결합 모델의 실패를 분석하고, 잔차 학습으로 아키텍처를 개선하여 성능을 향상시킨 과정을 보여줍니다.)*
