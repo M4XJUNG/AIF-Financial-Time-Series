@@ -12,7 +12,7 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 ## 🎯 Project Goal & Philosophy
 * **Robustness:** 단순한 정확도(Accuracy)보다, 시장 변화에도 무너지지 않는 **강건한 모델링** 지향.
 * **No Look-ahead Bias:** 미래 데이터를 참조하지 않는 엄격한 **Walk-forward Validation** 원칙 준수.
-* **Tabular Representation:** 시계열을 **정형 데이터(Tabular)**로 변환하여 Feature Engineering의 효과를 극대화.
+* **Tabular Representation:** 시계열을 정형 데이터(Tabular)로 변환하여 Feature Engineering의 효과를 극대화.
 
 ---
 
@@ -24,11 +24,11 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 | :--- | :--- | :--- |
 | **1. Feature Eng** | **TA-Lib & Domain Logic** | MA, RSI, Disparity, Momentum 등 15+ 기술적 지표 생성 |
 | **2. Decomposition** | **Exponential Smoothing** | 시계열의 추세(Trend)와 계절성(Seasonality) 제거 |
-| **3. Residual Learning** | **XGBoost Regressor** | 통계 모델이 설명하지 못한 **잔차(Residual)**의 비선형 패턴 학습 |
+| **3. Residual Learning** | **XGBoost Regressor** | 통계 모델이 설명하지 못한 잔차(Residual)의 비선형 패턴 학습 |
 | **4. Hybrid Prediction** | **Final Ensemble** | `Trend Forecast (ES)` + `Residual Correction (XGB)` |
 
 ### 2. Experiment Results (M4 Finance Dataset)
-**100개 무작위 금융 시계열 데이터(Daily Finance)**에 대한 일반화 성능 테스트 결과입니다.
+100개 무작위 금융 시계열 데이터(Daily Finance)에 대한 일반화 성능 테스트 결과입니다.
 
 <img width="867" height="546" alt="image" src="https://github.com/user-attachments/assets/2c83a129-0fc4-445d-ac52-7c6d90bd7d4d" />
 
