@@ -5,7 +5,7 @@
 Undergraduate Research Project by **M4XJUNG**
 Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.google.com/view/inha-aif-lab)
 
-이 저장소는 금융 시계열 데이터의 **비정상성(Non-stationarity)**과 **노이즈(Noise)**를 극복하기 위해, **통계적 기법(ES)과 머신러닝(XGBoost)을 결합한 하이브리드 아키텍처**를 구현하고 검증한 연구 기록입니다.
+이 저장소는 금융 시계열 데이터의 비정상성(Non-stationarity)과 노이즈(Noise)를 극복하기 위해, **통계적 기법(ES)과 머신러닝(XGBoost)을 결합한 하이브리드 아키텍처**를 구현하고 검증한 연구 기록입니다.
 
 ---
 
