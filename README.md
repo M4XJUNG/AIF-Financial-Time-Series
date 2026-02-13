@@ -56,8 +56,8 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 * **Data Processing:** Pandas, NumPy, **TA-Lib** (Technical Analysis)
 * **Modeling:** **XGBoost**, Statsmodels (Exponential Smoothing), PyTorch
 * **Environment:**
-    * **Local:** Apple Silicon **M4 Max** (Large-scale Experiments)
-    * **Cloud:** Google Colab Pro (Prototyping)
+    * **Local:** Apple Silicon **M4 Max**
+    * **Cloud:** Google Colab Pro 
 
 ---
 
