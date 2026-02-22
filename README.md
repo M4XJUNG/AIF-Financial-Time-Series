@@ -52,12 +52,12 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 
 ## 🛠️ Tech Stack & Environment
 
-* **Language:** Python 3.10
-* **Data Processing:** Pandas, NumPy, **TA-Lib** (Technical Analysis)
-* **Modeling:** **XGBoost**, Statsmodels (Exponential Smoothing), PyTorch
+* **Language:** Python 3.12.12
+* **Data Processing:** Pandas, NumPy 2.0.2, **TA-Lib** (Technical Analysis)
+* **Modeling:** **XGBoost**, Statsmodels (Exponential Smoothing), PyTorch 2.1.0, CUDA 12.8, GPU Tesla T4
 * **Environment:**
-    * **Local:** Apple Silicon **M4 Max**
-    * **Cloud:** Google Colab Pro 
+    * **Cloud:** Google Colab Pro
+    * **OS:** Linux 6.6
 
 ---
 
