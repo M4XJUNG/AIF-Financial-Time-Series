@@ -24,6 +24,22 @@ Undergraduate Research Assistant [@ AIF Lab, Inha University](https://sites.goog
 
 ---
 
+## Research Projects
+
+### 1. ES + XGBoost Hybrid Forecasting
+- Residual Learning
+- M4 Finance
+- Statistical + ML
+
+### 2. Time-o1 Review
+- Paper Review
+- Foundation Model
+
+### 3. N-BEATS + Time-o1 Hybrid Loss
+🏆 Bronze Prize
+
+---
+
 ## 🎯 Project Goal & Philosophy
 * **Robustness:** 단순한 정확도(Accuracy)보다, 시장 변화에도 무너지지 않는 **강건한 모델링** 지향.
 * **No Look-ahead Bias:** 미래 데이터를 참조하지 않는 엄격한 **Walk-forward Validation** 원칙 준수.
@@ -67,5 +83,8 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 ---
 
 ## 👨‍💻 Author
-* **Name:** 정명환 (M4XJUNG)
-* **Note:** 이 저장소는 금융 시계열 예측을 위한 통계적 방법론과 머신러닝·딥러닝 기반 모델을 연구한 학부연구 프로젝트를 정리한 저장소입니다.
+정명환 (M4XJUNG)
+
+Undergraduate Research Assistant
+Artificial Intelligence in Finance (AIF) Lab
+Inha University
