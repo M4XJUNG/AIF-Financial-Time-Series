@@ -10,11 +10,11 @@ Paper
 
 >N-BEATS에 Time-o1 하이브리드 손실 함수를 적용한 금융 시계열 예측 성능 및 재현성 비교 분석
 
-📄 [Award Certificate](award/하계학술대학생-2026-110호-대학생_동상_상장.pdf)
+📄 [Award Certificate](award/하계학술대학생-2026-110호-대학생_동상_상장-1.png)
 
 ---
 
-# 📈 Robust Financial Time-Series Forecasting System
+# 📈 Financial Time-Series Forecasting Research Repository
 > **Implementation of Hybrid Architectures (Statistical + ML) for M4 Finance Data**
 
 **인하대학교 금융 인공지능 연구실(AIF) 학부연구생 포트폴리오** <br>
