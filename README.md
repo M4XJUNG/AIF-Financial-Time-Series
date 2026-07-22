@@ -1,3 +1,19 @@
+# 🏆 Achievement
+
+🥉 Bronze Prize
+
+**Korea Digital Contents Society (KDCS)**
+Undergraduate Paper Competition
+22 July 2026
+
+Paper
+
+>N-BEATS에 Time-o1 하이브리드 손실 함수를 적용한 금융 시계열 예측 성능 및 재현성 비교 분석
+
+📄 [Award Certificate](award/bronze_certificate.pdf)
+
+---
+
 # 📈 Robust Financial Time-Series Forecasting System
 > **Implementation of Hybrid Architectures (Statistical + ML) for M4 Finance Data**
 
