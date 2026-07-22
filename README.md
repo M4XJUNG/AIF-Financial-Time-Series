@@ -10,7 +10,7 @@ Paper
 
 >N-BEATS에 Time-o1 하이브리드 손실 함수를 적용한 금융 시계열 예측 성능 및 재현성 비교 분석
 
-📄 <img src="award/KDCS_2026_Bronze_Certificate.png" width="700">
+<img src="award/KDCS_2026_Bronze_Certificate.png" width="700">
 
 ---
 
