@@ -6,7 +6,7 @@
 Undergraduate Paper Competition
 22 July 2026
 
-Paper
+Paper Title
 
 >N-BEATS에 Time-o1 하이브리드 손실 함수를 적용한 금융 시계열 예측 성능 및 재현성 비교 분석
 
@@ -55,17 +55,6 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 
 ---
 
-## 📂 Repository Structure
-
-| Directory | Description | Key Tech |
-| :--- | :--- | :--- |
-| [**01_Preprocessing**] | M4 데이터 필터링 및 **TA-Lib** 기반 파생변수 생성 | `Pandas`, `TA-Lib` |
-| [**02_Baseline_Models**] | XGBoost, Exponential Smoothing 단일 모델 성능 측정 | `XGBoost`, `Statsmodels` |
-| [**03_Hybrid_Architecture**] | **Residual Learning (ES-XGB)** 구현 및 검증 코드 | `Scikit-learn` |
-| [**Time-o1-Analysis**] | Time-o1 논문 리뷰 및 Foundation Model 적용 실험 | `PyTorch` |
-
----
-
 ## 🛠️ Tech Stack & Environment
 
 * **Language:** Python 3.12.12
@@ -79,4 +68,4 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 
 ## 👨‍💻 Author
 * **Name:** 정명환 (M4XJUNG)
-* **Note:** 본 프로젝트는 학부연구생을 위해 작성된 포트폴리오입니다.
+* **Note:** 이 저장소는 금융 시계열 예측을 위한 통계적 방법론과 머신러닝·딥러닝 기반 모델을 연구한 학부연구 프로젝트를 정리한 저장소입니다.
