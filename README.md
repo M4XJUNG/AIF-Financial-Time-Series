@@ -79,5 +79,4 @@ M4 Competition 우승 전략인 **ES-RNN**의 아이디어를 차용하여, **�
 
 ## 👨‍💻 Author
 * **Name:** 정명환 (M4XJUNG)
-* **Contact:** abcdefghi@inha.edu
-* **Note:** 본 프로젝트는 학부연구생 사전 면담을 위해 작성된 포트폴리오입니다.
+* **Note:** 본 프로젝트는 학부연구생을 위해 작성된 포트폴리오입니다.
